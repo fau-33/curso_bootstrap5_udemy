@@ -1,0 +1,15 @@
+.col-impar {
+  background-color: blue;
+  height: 100px;
+  width: 70px;
+  margin-top: 50px;
+  border: 1px dotted #ccc;
+}
+
+.col-par {
+  background-color: green;
+  height: 100px;
+  width: 70px;
+  margin-top: 50px;
+  border: 1px dotted #ccc;
+}
